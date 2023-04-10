@@ -20,13 +20,13 @@ db.sqlite3
 .fsevensd
 .Spotlight-V100
 
-# Windows
+# Windows-a
 Thumbs.db*
 ehthumbs*.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-# Visual Studio
+# Visual Studio-a
 .vscode/
 .history/
 *.code-workspace
